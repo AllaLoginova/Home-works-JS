@@ -1,0 +1,10 @@
+body {
+  position: relative;
+}
+
+.circle {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
